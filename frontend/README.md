@@ -1,6 +1,7 @@
 ## Link to the API hosted on Heroku
 
 https://birdie-test-hk.herokuapp.com/
+https://birdie-test-hk.herokuapp.com/observation 
 
 ## Link to the application hosted on Netlify
 
