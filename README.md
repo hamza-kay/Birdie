@@ -1,4 +1,4 @@
-# Birdie Technical Test
+# Birdie
 
 ## Link to the API hosted on Heroku
 https://birdie-test-hk.herokuapp.com/observation
